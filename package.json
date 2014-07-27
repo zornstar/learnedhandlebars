@@ -1,0 +1,18 @@
+{
+  "name": "learnedhandlebars",
+  "description": "A custom compiler based on handlebars.js",
+  "version": "0.0.1",
+  "license": "apache",
+  "author": "Matthew Zorn",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "lodash":"~2.4.1",
+    "handlebars": "2.0.0-alpha.4",
+    "jszip":"~2.4.0",
+    "sax":"~0.6.0",
+    "commander":"~2.3.0",
+    "xmldom":"~0.1.19"
+  }
+}
